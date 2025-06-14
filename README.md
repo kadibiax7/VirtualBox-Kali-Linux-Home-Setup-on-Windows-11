@@ -64,8 +64,10 @@ Since we want to show how to configure it, we will download the installer kit
 <br />
 
 
-<br />
-Confirm your selection:  <br/>
+<br />While you are waiting, let’s install VirtualBox <br/>
+
+Go to where you downloaded the file and double click, and follow the prompt. 
+ 
 <img src="https://imgur.com/8wRyK48.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
