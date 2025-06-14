@@ -73,6 +73,32 @@ Go to where you downloaded the file and double click, and follow the prompt.
 
 
 
+<br />Read and accept the Terms and follow the prompt. (click next) <br/>
+
+<img src="https://imgur.com/pmX6f5p.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+<br />Lunch VirtualBox. Go to a new virtual machine and create a new Kali virtual machine.<br/>
+
+Give it a name: Let’s say Kali Linux ISO 2025 
+
+And the ISO image that I’ll select. This is the one that I downloaded, and I’ll click next.
+
+<img src="https://imgur.com/HKqlYsT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+
+<br /> Give it the amount of RAM that you want.<br/>
+ Number of CPUs. Let’s say 4.
+
+<img src="https://imgur.com/jTIdlgD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
+
+
+
  <b></b> (21H2)
 - <b></b> (21H2)
 - <b></b> (21H2)
