@@ -129,11 +129,43 @@ So, I’ve got the Kali virtual machine running off the image that I downloaded.
 <br /> 
 NOTE: The user and password were just for the project; you should not use the defaults.
 
+- <b>click continue.</b>
+- <b> I used the entire disk and then clicked continue.</b>
+
+<img src="https://imgur.com/V5LHpcj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+
+- <b> So, I’m going to finish the partitioning and write changes to disk and 
+ Click continue.</b>
+
+ <img src="https://imgur.com/5Eg7KIX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+
+- <b>I’m ok with these changes being made. So, say yes and continue.</b>
+
+So the software is now being unpacked and installed.
+(Wait, it’s going to take a while to install.)
+
+<img src="https://imgur.com/1QMJ4SO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+Okay, want to install the GRUB boot loader. Yes, and click continue.
+ I’m going to specify the hard drive and continue. 
+
+
+<img src="
+
+ 
+ .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+
+ The installation is now being finished.
+- <b>Then reboot</b>
+<img src="
 
 
 
-
-
+ .png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
 
 - <b></b>
 <!--
