@@ -46,6 +46,9 @@ NOTE: Make sure that your computer meets the minimum requirements to run Kali Li
 <img src="https://imgur.com/P41jAQz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
+Download VirtualBox for your operating system. 
+If there’s a later release when you watch this video, then download that release of VirtualBox for your operating system. 
+
 Download VirtualBox @ (https://virtualbox.org) 
 
 <br />
