@@ -38,7 +38,7 @@ Whether you're a cybersecurity enthusiast, developer, or learner, this guide hel
   
 - <b>CPU</b> 
   
-- <b>Make sure that virtualization is enabled. </b> 
+- <b>Make sure that virtualization is enabled. </b> NOTEL: One of the things you want is to make sure that your computer meets the minimum requirements to run Kali Linux. It depends on what you want to install, but for this example, we’re going to opt for the default desktop and the Kali Linux default packages. You need at least 2 gigs of RAM and 20 gigs of disk space.  The batter.
  
 
 
@@ -70,18 +70,6 @@ Confirm your selection:  <br/>
 
 
 
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
  <b></b> (21H2)
 - <b></b> (21H2)
 - <b></b> (21H2)
