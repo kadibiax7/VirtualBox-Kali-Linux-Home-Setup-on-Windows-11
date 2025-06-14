@@ -20,11 +20,11 @@ Whether you're a cybersecurity enthusiast, developer, or learner, this guide hel
 
 <h2>Environments Used </h2>
 
-- <b>Windows 11</b> (21H2)
+- <b>Windows 11</b> 
  
-- <b>VirtualBox 7.1.10 platform packages (Windows hosts)</b> (21H2)
+- <b>VirtualBox 7.1.10 platform packages (Windows hosts)</b>
 
-- <b>Kali Linux 2025.2 Changelog x86_64</b> (21H2)
+- <b>Kali Linux 2025.2 Changelog x86_64</b>
 
 <h2>Installation walk-through:</h2>
 
@@ -32,33 +32,44 @@ Whether you're a cybersecurity enthusiast, developer, or learner, this guide hel
   
   To do this:
   
-- <b>Go to the task manager</b> (21H2)
+- <b>Go to the task manager</b> 
   
-- <b>Performance</b> (21H2)
+- <b>Performance</b> 
   
-- <b>CPU</b> (21H2)
+- <b>CPU</b> 
   
-- <b>Make sure that virtualization is enabled. </b> (21H2)
+- <b>Make sure that virtualization is enabled. </b> 
  
 
 
 
 
  <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/P41jAQz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+
+
 <br />
 Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/i490LbA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+
+
 <br />
 Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/qA02WXQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+
 <br />
 Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/8wRyK48.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
+
+
+
 <br />
 Wait for process to complete (may take some time):  <br/>
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
