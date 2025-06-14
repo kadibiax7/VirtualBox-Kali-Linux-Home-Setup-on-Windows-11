@@ -46,20 +46,20 @@ NOTE: Make sure that your computer meets the minimum requirements to run Kali Li
 <img src="https://imgur.com/P41jAQz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-Download VirtualBox for your operating system. 
+<br />Download VirtualBox for your operating system <br/> 
+
 If there’s a later release when you watch this video, then download that release of VirtualBox for your operating system. 
 
 Download VirtualBox @ (https://virtualbox.org) 
 
-<br />
-Select the disk:  <br/>
 <img src="https://imgur.com/i490LbA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
-Download KaliLinux @ (https://www.kali.org/)
-<br />
-Enter the number of passes: <br/>
+<br />Download KaliLinux @ (https://www.kali.org/) <br/>
+
+Since we want to show how to configure it, we will download the installer kit 
+
 <img src="https://imgur.com/qA02WXQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
