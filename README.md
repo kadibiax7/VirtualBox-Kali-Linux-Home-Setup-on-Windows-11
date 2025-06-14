@@ -148,24 +148,25 @@ So the software is now being unpacked and installed.
 
 <img src="https://imgur.com/1QMJ4SO.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
-kali
-Okay, want to install the GRUB boot loader. Yes, and click continue.
+- <b>Install the GRUB boot loader. Click yes and continue.</b>
 
 <img src="https://imgur.com/OPzHz9q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
- I’m going to specify the hard drive and continue.
+ 
+- <b>I’m going to specify the hard drive and continue.</b>
  The installation is now being finished.
  
  <img src="https://imgur.com/xjPb6OA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br /> 
 
-- <b>Then reboot</b>
+- <b>Then Reboot</b>
 <img src="https://imgur.com/nJIP48D.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br /> 
-And now you can use your Kali Linux on your VirtualBox on Windows 11
+Now you can use your Kali Linux on your VirtualBox on Windows 11
+<img src="https://imgur.com/jKCb6KB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+
 
 - <b>TEST</b>
 <img src="https://imgur.com/qbifMlK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
