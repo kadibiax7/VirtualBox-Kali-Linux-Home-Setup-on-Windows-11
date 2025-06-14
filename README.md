@@ -89,19 +89,53 @@ And the ISO image that I’ll select. This is the one that I downloaded, and I�
 <br />
 
 
+<br /> Give it the amount of RAM that you want. (4500MB OR More) <br/>
+ Number of CPUs. Let’s say 3CPUs.
 
-<br /> Give it the amount of RAM that you want.<br/>
- Number of CPUs. Let’s say 4.
-
-<img src="https://imgur.com/jTIdlgD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-
+<img src="https://imgur.com/jTIdlgD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> 
+<br />click finish.
 
 
+<img src="https://imgur.com/p3TZ3aM.png" height="80%" width="80%" alt="Disk Sanitization Steps"/><br />  
 
- <b></b> (21H2)
-- <b></b> (21H2)
-- <b></b> (21H2)
+So, I’ve got the Kali virtual machine running off the image that I downloaded.
+
+
+<br /> Now, start your ISO image to start the configuration.
+
+- <b>Select the graphical install.</b> <br/>
+
+<img src="https://imgur.com/Ko1SESk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+
+- <b>My language is English.</b>
+
+<img src="https://imgur.com/O4pMx1s.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+
+- <b>Specify your location.</b>
+
+- <b>I’ll select that keyboard</b>
+
+- <b>Configure our hostname. I’ll go with the defaults. kali</b>
+
+- <b>Not going to specify a domain.</b>
+
+- <b>We need to specify a username, I’m just going to go with Kali</b>
+
+- <b>The password: Kali</b>
+
+<img src="https://imgur.com/YOFGPu6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br /> 
+NOTE: The user and password were just for the project; you should not use the defaults.
+
+
+
+
+
+
+
+- <b></b>
 <!--
  ```diff
 - text in red
