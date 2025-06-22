@@ -10,9 +10,7 @@ Whether you're a cybersecurity enthusiast, developer, or learner, this guide hel
 
 ✔️ VirtualBox Installation – Download and setup instructions.
 
-✔️ Kali Linux Home VM Configuration – Optimized settings for performance.
-
-<br />
+✔️ Kali Linux Home VM Configuration – Optimized settings for performance. <br />
 
 <h2>Environments Used </h2>
 
