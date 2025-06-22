@@ -14,12 +14,6 @@ Whether you're a cybersecurity enthusiast, developer, or learner, this guide hel
 
 <br />
 
-<h2>Links and Sites</h2>
-
-Download VirtualBox @ (https://virtualbox.org) 
-
-<br />Download KaliLinux @ (https://www.kali.org/) <br/>
-
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b> 
@@ -27,6 +21,13 @@ Download VirtualBox @ (https://virtualbox.org)
 - <b>VirtualBox 7.1.10 platform packages (Windows hosts)</b>
 
 - <b>Kali Linux 2025.2 Changelog x86_64</b>
+
+<h2>Links and Sites</h2>
+
+Download VirtualBox @ (https://virtualbox.org) 
+
+<br />Download KaliLinux @ (https://www.kali.org/) <br/>
+
 
 <h2>Installation walk-through:</h2>
 
