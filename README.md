@@ -14,6 +14,8 @@ Whether you're a cybersecurity enthusiast, developer, or learner, this guide hel
 
 <br />
 
+<h2>Links and Sites</h2>
+
 <h2>Environments Used </h2>
 
 - <b>Windows 11</b> 
