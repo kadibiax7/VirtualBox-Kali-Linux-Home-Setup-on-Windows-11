@@ -12,10 +12,6 @@ Whether you're a cybersecurity enthusiast, developer, or learner, this guide hel
 
 ✔️ Kali Linux Home VM Configuration – Optimized settings for performance.
 
-✔️ Guest Additions & Tools – Enhancing VM usability.
-
-✔️ Troubleshooting Tips – Common issues and fixes.
-
 <br />
 
 <h2>Environments Used </h2>
